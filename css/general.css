@@ -1,0 +1,180 @@
+/* VARIABLES */
+:root{
+    --theme-primary-color: #001e2e;
+    --theme-secondary-color: #dd9c7d;
+    --theme-background-color: #f5f5f5;
+}
+
+body{
+    margin: 0;
+    font-size: 16px;
+    font-family: 'BrandonText';
+}
+
+*{
+    box-sizing: border-box;
+}
+
+img, video{
+    max-width: 100%;
+}
+
+/* FLEX STYLES */
+
+.d-flex{
+    display: flex;
+}
+
+.flex-directon-column{
+    flex-direction: column;
+}
+
+.justify-content-start{
+    justify-content: flex-start;
+}
+
+.justify-content-end{
+    justify-content: flex-end;
+}
+
+.justify-content-center{
+    justify-content: center;
+}
+
+.align-items-start{
+    align-items: flex-start;
+}
+
+.align-items-end{
+    align-items: flex-end;
+}
+
+.align-items-center{
+    align-items: center;
+}
+
+.flex-wrap{
+    flex-wrap: wrap;
+}
+
+/* SIZING STYLES */
+
+.height-100{
+    height: 100vh
+}
+
+.width-100{
+    width: 100vw;
+}
+
+.container{
+    max-width: 1280px;
+    margin: auto
+}
+
+/* PADDING STYLES */
+
+.p-10{
+    padding: 10px;
+}
+
+.p-20{
+    padding: 20px;
+}
+
+.p-30{
+    padding: 30px
+}
+
+.p-top-10{
+    padding-top: 10px;
+}
+
+.p-top-20{
+    padding-top: 20px;
+}
+
+.p-top-30{
+    padding-top: 30px;
+}
+
+.p-left-10{
+    padding-left: 10px;
+}
+
+.p-left-20{
+    padding-left: 20px;
+}
+
+.p-left-30{
+    padding-left: 30px;
+}
+
+.p-bottom-10{
+    padding-bottom: 10px;
+}
+
+.p-bottom-20{
+    padding-bottom: 20px;
+}
+
+.p-bottom-30{
+    padding-bottom: 30px;
+}
+
+.p-right-10{
+    padding-right: 10px;
+}
+
+.p-right-20{
+    padding-right: 20px;
+}
+
+.p-right-30{
+    padding-right: 30px;
+}
+
+/* FONT FAMILY STYLES */
+.font-spoon{
+    font-family: 'Spoon';
+}
+
+/* HEADINGS STYLE */
+h1, h2, h3, h4, h5, h6{
+    margin: 0
+}
+
+.h2 {
+    font-size: 2em;
+}
+
+/* PARAGRAPH STYLES */
+p{
+    margin: 0 0 20px;
+}
+
+p:last-of-type{
+    margin: 0
+}
+
+/* POSTION STYLES */
+.position-relative{
+    position: relative;
+}
+
+.position-absolute{
+    position: absolute;
+}
+
+/* TEXT ALIGN STYLES */
+.text-center{
+    text-align: center;
+}
+
+.text-left{
+    text-align: left;
+}
+
+.text-right{
+    text-align: right;
+}

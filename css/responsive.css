@@ -1,0 +1,23 @@
+@media screen and (max-width: 980px){
+    .member-box{
+        width: calc(100% / 2 - 100px)
+    }
+}
+
+@media screen and (max-width: 768px){
+    .member-image img{
+        height: 400px
+    }
+}
+
+@media screen and (max-width: 667px){
+    .member-box {
+        width: 100%;
+        margin: 20px 0;
+    }
+    .member-image img{height: auto;}
+    .lebijou-heading{letter-spacing: 0.3em;}
+    .lebijou-about-wrapper p{max-width: 100%;}
+    .lebijou-content-slide{padding: 0 20px}
+
+}
