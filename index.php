@@ -70,10 +70,10 @@
                             <h4>Principle Software Engineer</h4>
                             <ul class="member-contact">
                                 <li class="linkedin social-icon">
-                                    <a href="#"><i class="fab fa-linkedin-in"></i></a>
+                                    <a href="https://www.linkedin.com/in/kirmani/" target="_blank"><i class="fab fa-linkedin-in"></i></a>
                                 </li>
                                 <li class="email social-icon">
-                                    <a href="#"><i class="fas fa-at"></i></a>
+                                    <a href="mailto:taq.kirmani@genetechsolutions.com"><i class="fas fa-at"></i></a>
                                 </li>
                             </ul>
                         </div>
@@ -89,10 +89,10 @@
                             <h4>Senior Software Engineer</h4>
                             <ul class="member-contact">
                                 <li class="linkedin social-icon">
-                                    <a href="#"><i class="fab fa-linkedin-in"></i></a>
+                                    <a href="https://www.linkedin.com/in/shujaathaider/" target="_blank"><i class="fab fa-linkedin-in"></i></a>
                                 </li>
                                 <li class="email social-icon">
-                                    <a href="#"><i class="fas fa-at"></i></a>
+                                    <a href="mailto:shujaat.haider@genetechsolutions.com"><i class="fas fa-at"></i></a>
                                 </li>
                             </ul>
                         </div>
@@ -108,29 +108,10 @@
                             <h4>Senior Software Engineer</h4>
                             <ul class="member-contact">
                                 <li class="linkedin social-icon">
-                                    <a href="#"><i class="fab fa-linkedin-in"></i></a>
+                                    <a href="https://www.linkedin.com/in/qadir-hussain-03670b26/" target="_blank"><i class="fab fa-linkedin-in"></i></a>
                                 </li>
                                 <li class="email social-icon">
-                                    <a href="#"><i class="fas fa-at"></i></a>
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
-
-                    <!-- KAZIM HOMAYEE -->
-                    <div class="member-box">
-                        <div class="member-image">
-                            <img src="./images/kazim.png" alt="Kazim Homayee">
-                        </div>
-                        <div class="member-content">
-                            <h3 class="font-spoon">Kazim Homayee</h3>
-                            <h4>Senior Software Engineer</h4>
-                            <ul class="member-contact">
-                                <li class="linkedin social-icon">
-                                    <a href="#"><i class="fab fa-linkedin-in"></i></a>
-                                </li>
-                                <li class="email social-icon">
-                                    <a href="#"><i class="fas fa-at"></i></a>
+                                    <a href="mailto:qadir.hussain@genetechsolutions.com"><i class="fas fa-at"></i></a>
                                 </li>
                             </ul>
                         </div>
@@ -146,10 +127,10 @@
                             <h4>Software Engineer</h4>
                             <ul class="member-contact">
                                 <li class="linkedin social-icon">
-                                    <a href="#"><i class="fab fa-linkedin-in"></i></a>
+                                    <a href="https://pk.linkedin.com/in/ishraq-qureshi" target="_blank"><i class="fab fa-linkedin-in"></i></a>
                                 </li>
                                 <li class="email social-icon">
-                                    <a href="#"><i class="fas fa-at"></i></a>
+                                    <a href="mailto:ishraq.aslam@genetechsolutions.com"><i class="fas fa-at"></i></a>
                                 </li>
                             </ul>
                         </div>
